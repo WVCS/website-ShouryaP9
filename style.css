@@ -8,11 +8,12 @@ h2 {
   text-decoration-line: overline;
   letter-spacing: 6px;
   text-transform: uppercase;
+   padding: 2%;
+  
 }
 img {
   width: 40%;
    border-radius: 20%;
-   padding: 2%;
 }
 img:hover {
   width: 42%;
