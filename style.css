@@ -1,15 +1,19 @@
-h2 { 
-color: purple; 
-  text-align: left;
+body {
+  background-color: #082254;
 }
-body { 
-  background-color: #25CED1;
+h2 {
+  color: #33ff9d;
+  font-size: 250%;
+  font-family: arial;
+  text-decoration-line: overline;
+  letter-spacing: 6px;
+  text-transform: uppercase;
 }
-body:hover {
-  background-color: #96ADC8;
-    cursor: wait; 
+img {
+  width: 40%;
+   border-radius: 20%;
+   padding: 2%;
 }
-
-p {
-  text-align: center;
+img:hover {
+  width: 42%;
 }
