@@ -1,0 +1,40 @@
+body {
+  background-color: #082254;
+}
+h2 {
+  color: #FF4655;
+  font-size: 250%;
+  font-family: arial;
+  text-decoration-line: overline;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+  
+}
+
+ul {
+  list-style-type:none;
+  background-color:#FF4655;
+  width: 24%;
+  height: 7.5%;
+  left: 0;
+  top: 0;
+  position: fixed;
+  
+}
+
+li {
+  display: inline;
+  padding: 2.9%;
+  font-size: 160%;
+  font-family: arial;
+  font-weight: bold;
+} 
+
+a {
+  color: #FFFFFF;
+}
+
+li-hover {
+  background-color: #FF4655;
+  opacity: 10%;
+}
