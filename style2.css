@@ -34,7 +34,6 @@ a {
   color: #FFFFFF;
 }
 
-li-hover {
-  background-color: #FF4655;
-  opacity: 10%;
+a:hover {
+  color: #D3D3D3;
 }
